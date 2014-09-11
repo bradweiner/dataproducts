@@ -1,0 +1,103 @@
+UNITID,INSTITUTION_NAME,PCT_UGRD_PELL,GRAD_RATE_6,GRAD_RATE_5,GRAD_RATE_4,CONTROL,ACT_COMP_25TH_PCT,ACT_COMP_75TH_PCT
+104151,Arizona State University-Tempe,41,57,52,33,Public,21,27
+164988,Boston University,15,84,83,79,Private/Not Relgious,26,30
+165015,Brandeis University,20,90,89,86,Private/Not Relgious,28,32
+217156,Brown University,15,95,93,83,Private/Not Relgious,29,33
+110404,California Institute of Technology,11,92,90,79,Private/Not Relgious,33,35
+211440,Carnegie Mellon University,14,87,85,73,Private/Not Relgious,29,33
+201645,Case Western Reserve University,21,78,77,63,Private/Not Relgious,28,32
+126818,Colorado State University-Fort Collins,26,63,59,38,Public,22,27
+190150,Columbia University in the City of New York,21,95,93,88,Private/Not Relgious,31,34
+190415,Cornell University,17,93,92,87,Private/Not Relgious,29,33
+182670,Dartmouth College,15,96,94,88,Private/Not Relgious,30,34
+198419,Duke University,14,95,93,87,Private/Religious,30,34
+139658,Emory University,23,90,88,84,Private/Religious,30,33
+134097,Florida State University,32,75,72,53,Public,25,28
+131469,George Washington University,14,80,79,74,Private/Not Relgious,27,31
+131496,Georgetown University,14,93,93,89,Private/Religious,30,33
+139755,Georgia Institute of Technology-Main Campus,20,79,72,34,Public,27,32
+139940,Georgia State University,51,51,43,20,Public,21,26
+166027,Harvard University,11,97,95,86,Private/Not Relgious,31,35
+151351,Indiana University-Bloomington,20,75,72,55,Public,24,29
+153603,Iowa State University,24,71,66,39,Public,22,28
+162928,Johns Hopkins University,13,92,91,86,Private/Not Relgious,29,33
+159391,Louisiana State University and Agricultural & Mechanical College,20,65,59,34,Public,23,28
+166683,Massachusetts Institute of Technology,20,93,91,84,Private/Not Relgious,32,35
+171100,Michigan State University,25,79,75,53,Public,23,28
+176080,Mississippi State University,36,58,52,30,Public,20,27
+180461,Montana State University,33,49,41,20,Public,21,28
+193900,New York University,21,85,84,79,Private/Not Relgious,29,32
+199193,North Carolina State University at Raleigh,23,71,66,39,Public,23,28
+200332,North Dakota State University-Main Campus,23,53,46,24,Public,21,26
+147767,Northwestern University,14,93,92,86,Private/Not Relgious,31,33
+204796,Ohio State University-Main Campus,24,82,79,53,Public,26,30
+209542,Oregon State University,34,61,55,30,Public,21,26
+214777,Pennsylvania State University-Main Campus,19,86,84,65,Public,25,29
+186131,Princeton University,12,96,95,88,Private/Not Relgious,31,34
+243780,Purdue University-Main Campus,22,70,65,39,Public,24,30
+194824,Rensselaer Polytechnic Institute,17,84,83,60,Private/Not Relgious,26,30
+227757,Rice University,17,92,91,84,Private/Not Relgious,30,34
+243744,Stanford University,18,95,92,80,Private/Not Relgious,30,34
+196097,Stony Brook University,37,70,65,47,Public,25,29
+196060,SUNY at Albany,36,64,63,53,Public,22,26
+228723,Texas A & M University-College Station,22,80,76,49,Public,24,30
+221759,The University of Tennessee-Knoxville,31,66,62,36,Public,24,29
+228778,The University of Texas at Austin,28,79,74,51,Public,25,31
+168148,Tufts University,12,92,91,88,Private/Not Relgious,30,33
+160755,Tulane University of Louisiana,17,75,74,62,Private/Not Relgious,29,32
+196088,University at Buffalo,30,70,65,44,Public,23,28
+100663,University of Alabama at Birmingham,37,48,42,25,Public,21,27
+100706,University of Alabama in Huntsville,33,47,39,16,Public,22,29
+106397,University of Arkansas,25,60,55,35,Public,23,28
+110635,University of California-Berkeley,33,91,85,68,Public,27,32
+110644,University of California-Davis,43,81,77,52,Public,23,29
+110653,University of California-Irvine,40,86,83,66,Public,23,28
+110662,University of California-Los Angeles,36,92,89,71,Public,25,31
+110671,University of California-Riverside,57,66,62,42,Public,19,24
+110680,University of California-San Diego,46,86,82,57,Public,25,31
+110705,University of California-Santa Barbara,37,80,78,67,Public,24,29
+110714,University of California-Santa Cruz,41,74,71,52,Public,21,27
+132903,University of Central Florida,36,65,59,35,Public,24,28
+144050,University of Chicago,16,92,91,86,Private/Not Relgious,31,34
+201885,University of Cincinnati-Main Campus,27,62,55,24,Public,22,27
+126614,University of Colorado Boulder,18,68,63,42,Public,24,28
+129020,University of Connecticut,21,82,81,67,Public,25,29
+130943,University of Delaware,11,80,78,67,Public,24,28
+134130,University of Florida,32,85,82,64,Public,24,30
+139959,University of Georgia,25,81,78,54,Public,25,29
+141574,University of Hawaii at Manoa,31,56,45,17,Public,21,25
+225511,University of Houston,41,46,36,16,Public,21,26
+145600,University of Illinois at Chicago,50,58,53,31,Public,21,26
+145637,University of Illinois at Urbana-Champaign,20,84,82,69,Public,26,31
+153658,University of Iowa,19,70,68,47,Public,23,28
+155317,University of Kansas,22,64,58,37,Public,22,28
+157085,University of Kentucky,24,58,52,31,Public,22,28
+157289,University of Louisville,31,52,46,26,Public,21,27
+166629,University of Massachusetts-Amherst,26,70,68,54,Public,24,28
+135726,University of Miami,20,81,79,69,Private/Not Relgious,28,32
+170976,University of Michigan-Ann Arbor,16,91,89,76,Public,29,33
+174066,University of Minnesota-Twin Cities,23,73,69,50,Public,25,30
+178396,University of Missouri-Columbia,23,71,68,47,Public,23,28
+181464,University of Nebraska-Lincoln,23,65,58,29,Public,22,28
+187985,University of New Mexico-Main Campus,39,45,37,12,Public,19,25
+199120,University of North Carolina at Chapel Hill,21,89,87,76,Public,27,31
+152080,University of Notre Dame,12,95,94,89,Private/Religious,32,34
+207500,University of Oklahoma-Norman Campus,26,66,61,36,Public,23,29
+209551,University of Oregon,26,67,63,44,Public,22,27
+215062,University of Pennsylvania,14,96,95,87,Private/Not Relgious,30,34
+215293,University of Pittsburgh-Pittsburgh Campus,18,79,77,62,Public,25,30
+195030,University of Rochester,19,85,83,74,Private/Not Relgious,28,32
+218663,University of South Carolina-Columbia,24,72,70,53,Public,24,29
+137351,University of South Florida-Main Campus,43,57,49,29,Public,23,27
+123961,University of Southern California,23,90,88,74,Private/Not Relgious,29,33
+230764,University of Utah,32,59,46,22,Public,21,27
+234076,University of Virginia-Main Campus,12,93,93,87,Public,28,32
+236948,University of Washington-Seattle Campus,25,81,77,56,Public,24,30
+240444,University of Wisconsin-Madison,16,82,79,53,Public,26,30
+221999,Vanderbilt University,15,92,92,87,Private/Not Relgious,31,34
+234030,Virginia Commonwealth University,29,56,49,30,Public,20,26
+236939,Washington State University,33,67,64,39,Public,20,26
+179867,Washington University in St Louis,7,94,93,88,Private/Not Relgious,32,34
+172644,Wayne State University,50,28,21,10,Public,18,25
+130794,Yale University,14,96,95,89,Private/Not Relgious,32,35
+197708,Yeshiva University,19,84,80,58,Private/Not Relgious,23,29
